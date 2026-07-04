@@ -1,5 +1,7 @@
 # auto-design
 
+![auto-design](Output.svg)
+
 Generates Figma mockups from instructions written inside Figma frames, built from **your own design system**. Point it at a Figma Section whose sub-frames each describe a feature (a `Claude description:` spec + reference material), and it produces finished mockups for each — built from your design system's components and placed to the right of the reference.
 
 ## Installation

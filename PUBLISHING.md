@@ -20,9 +20,9 @@ auto-design-public/
 `marketplace.json`'s single plugin entry uses `"source": "."`, the documented pattern for a
 repo that is simultaneously the marketplace and the plugin it lists.
 
-`auto-design-post.md` and `Output.svg` are an unrelated blog draft + graphic that live in this
-working directory for convenience only. They are listed in `.gitignore` and must **not** be
-committed to this repo.
+`auto-design-post.md` is an unrelated blog draft that lives in this working directory for
+convenience only. It is listed in `.gitignore` and must **not** be committed to this repo.
+`Output.svg` is committed and used as the README header image.
 
 ## What was already done
 
