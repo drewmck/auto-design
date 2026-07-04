@@ -1,0 +1,20 @@
+{
+  "name": "auto-design",
+  "version": "1.0.0",
+  "description": "Turns Figma PRD sections into finished mockups built from your own design system, using specs written inside Figma frames",
+  "author": {
+    "name": "auto-design maintainers",
+    "email": "mckinney.drew@gmail.com"
+  },
+  "skills": [
+    "./skills/auto-design"
+  ],
+  "keywords": [
+    "design",
+    "figma",
+    "design-system",
+    "mockup",
+    "prd",
+    "ux"
+  ]
+}

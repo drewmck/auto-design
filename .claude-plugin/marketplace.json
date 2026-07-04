@@ -1,0 +1,22 @@
+{
+  "name": "auto-design",
+  "owner": {
+    "name": "Drew McKinney",
+    "email": "mckinney.drew@gmail.com"
+  },
+  "metadata": {
+    "description": "Figma PRD-to-mockup skill that builds from your own design system",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "auto-design",
+      "description": "Turns Figma PRD sections into finished mockups built from your own design system",
+      "author": { "name": "Drew McKinney" },
+      "source": ".",
+      "category": "design",
+      "keywords": ["design", "figma", "design-system", "mockup", "prd", "ux"],
+      "homepage": "https://github.com/drewmck/auto-design"
+    }
+  ]
+}
